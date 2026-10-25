@@ -1,0 +1,10 @@
+# Ignore everything (compiled binaries, FIFOs, temp files)...
+*
+# ...except folders and source/notes files
+!*/
+!*.c
+!*.h
+!*.sh
+!*.txt
+!*.md
+!.gitignore
